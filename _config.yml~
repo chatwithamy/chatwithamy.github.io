@@ -1,0 +1,15 @@
+permalink: /:categories/:title
+auto: true
+markdown: kramdown
+
+url: http://rashchat.github.io/
+
+name: "RashChat"
+tagline: ""
+description: "A parody of a girl who's all about the looks."
+
+author:
+ name: "RashChat"
+ email: "rashchat1@gmail.com"
+ github: "rashchat"
+

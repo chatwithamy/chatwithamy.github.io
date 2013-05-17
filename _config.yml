@@ -1,0 +1,15 @@
+permalink: /:categories/:title
+auto: true
+markdown: kramdown
+
+url: http://chatwithamy.github.io/
+
+name: "RashChat"
+tagline: ""
+description: "Chat with Amy Bouzaglo."
+
+author:
+ name: "Chat With Amy"
+ email: "chatwithamyapp@gmail.com"
+ github: "chatwithamy"
+
