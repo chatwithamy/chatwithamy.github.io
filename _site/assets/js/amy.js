@@ -70,7 +70,7 @@ function input() {
 }
 function checkinput() {
     if (/are you sure/i.test(txt)) return 1;
-    else if (/pizza|burger|salad|ravioli/i.test(txt)) return 0;
+    else if (/pizza|burger|salad|ravioli|food|restaurant|cake/i.test(txt)) return 0;
     else if (/stupid|idiot|moron|delusional|delusion|fuck|suck|worst/i.test(txt)) return 2;
     else if(/bye|goodnight|night/i.test(txt)) return 4;
     else if(/hi|hello|good morning/i.test(txt)) return 5;

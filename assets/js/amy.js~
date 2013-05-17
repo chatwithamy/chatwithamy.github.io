@@ -190,6 +190,7 @@ function amytype() {
             $(".logbox")
                 .scrollTop($(".logbox")[0].scrollHeight)
         }
+    }
 else if (response == 5) {
         randomNumber =
             Math.floor(Math.random() * textArray6.length);
