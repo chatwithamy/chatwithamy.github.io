@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+
+
+  <meta name="viewport" content="width=device-width">
+
+  <title>About - Chat With Amy</title>
+
+  <link rel="stylesheet" href="/assets/styles/css/normalize.css">
+  <link rel="stylesheet" href="/assets/styles/css/foundation.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>
+
+  <script src="/assets/js/custom.modernizr.js"></script>
+
+</head>
+<body>
+
+
+
+  <div class="row">
+    <div class="large-6 columns">
+      <h1 id="droid"><a href='/'><span id="black">Chat with </span>Amy</a></h1>
+    </div>
+  </div>
+
+
+
+  <div class="row">
+    <div class="large-12 columns">
+      <h1 id="quote">&quot;meow!&quot;</h1>
+	<p id="author">- Amy B.
+      <hr>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="large-4 columns">
+      <h1>Description</h1>
+    </div>
+  </div>
+  <div class="row">
+	<div class="large-12 columns">
+		<p>Amy and Samy Bouzaglo were recently featured in the season finale of 'Kitchen Nightmares'. <a href="http://www.youtube.com/watch?v=G6LY7TJ16pg">Their appearance on the show</a> followed by their <a href="http://www.buzzfeed.com/ryanhatesthis/this-is-the-most-epic-brand-meltdown-on-facebook-ever">adorable rant</a> on Facebook ensured that they caught the attention of the Internet. These believers of the ALMIGHTY ALL-CAPS later claimed to be hacked, with the 'FBI Computer Crimes Department' currently on the lookout for the perpetrator.</p>
+
+<p>The episode of Kitchen Nightmares ended with Gordon Ramsay, winner of 15 Michelin Stars, giving up on the two. While Samy spent most of the episode screaming at the patrons, stealing tips from the waitstaff and being a gangster like your average restaurant manager, Amy gave us valuable insight into the mind of a (possibly bipolar) "chef" and mother of babies in cats' bodies.</p>
+
+<p>Sadly, not many of us will have the once-in-a-lifetime opportunity to speak with her personally. To simulate a conversation with Amy, we have created Chat with Amy. The chat-bot draws upon statements she made during the episode and the infamous Facebook meltdown to create a unique experience for you.</p>
+	</div>
+</div>
+  <div class="row">
+    <div class="large-4 columns">
+      <h1>Try these out</h1>
+    </div>
+  </div>
+
+  <div class="row">
+  
+        <div class="circle">1</div>
+        <div class="small-11 large-11 columns">
+		
+          <p><strong>Start off by saying hi.</strong> Who knows? She may love you even more for it.</p>
+          
+		</div>
+	</div>
+
+<div class="row">
+  
+        <div class="circle">2</div>
+        <div class="small-11 large-11 columns">
+		
+          <p><strong>Tell her what you think of her food.</strong></p>
+          
+		</div>
+	</div>
+	
+	<div class="row">
+  
+        <div class="circle">3</div>
+        <div class="small-11 large-11 columns">
+		
+          <p><strong>Try insulting her</strong> and see what happens. Oh, and good luck with that by the way.</p>
+          
+		</div>
+	</div>
+	
+	<div class="row">
+  
+        <div class="circle">4</div>
+        <div class="small-11 large-11 columns">
+		
+          <p>Most importantly, <strong>have fun</strong></p>.
+          
+		</div>
+	</div>
+	
+	
+
+
+  <footer class="row">
+    <div class="large-12 columns">
+      <hr>
+      <div class="row">
+        <div class="large-6 columns">
+          <p>The code for this website is <a href="https://github.com/chatwithamy/chatwithamy.github.io">freely available</a> on <a href="https://github.com/">GitHub</a>.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+  document.write('<script src=/assets/js/' +
+  ('__proto__' in {} ? 'zepto' : 'jquery') +
+  '.js><\/script>')
+  </script><script src="/assets/js/zepto.js"></script>
+  <script src="/assets/js/foundation.min.js"></script>
+  <script>
+    $(document).foundation();
+  </script>
+
+
+</body></html>

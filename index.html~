@@ -2,9 +2,10 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta property="fb:admins" content="1172191988" />		
 		<title>Chat with Amy</title>
 		<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" type="text/css" href="assets/styles/styleamy.css">
+		<link rel="stylesheet" type="text/css" href="assets/styles/css/styleamy.css">
 		<script src="http://code.jquery.com/jquery-latest.min.js"
         type="text/javascript"></script>
 

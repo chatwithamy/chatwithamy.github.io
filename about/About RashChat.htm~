@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width">
+
+  <title>About RashChat</title>
+
+  <link rel="stylesheet" href="./About RashChat_files/normalize.css">
+  <link rel="stylesheet" href="./About RashChat_files/foundation.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>
+
+  <script src="./About RashChat_files/custom.modernizr.js"></script>
+
+</head>
+<body>
+
+  <!-- Header and Nav -->
+
+  <div class="row">
+    <div class="large-3 columns">
+      <h1 id="droid">Rash<span id="black">Chat</span></h1>
+    </div>
+  </div>
+
+  <!-- End Header and Nav -->
+
+  <!-- First Band (Image) -->
+
+  <div class="row">
+    <div class="large-12 columns">
+      <h1 id="quote">&quot;thnkuu&quot;</h1>
+
+      <hr>
+    </div>
+  </div>
+  <!-- Second Band (Image Left with Text) -->
+  <div class="row">
+    <div class="large-4 columns">
+      <h1>Description</h1>
+    </div>
+  </div>
+  <div class="row">
+	<div class="large-12 columns">
+		<p>All of us know at least one person like this. They post a new photo of themselves every 3 seconds, get a bajillion likes and the comments are full of "y u so hot" and "wow so hawt" and "lukin sxy". And the only thing this person will ever reply with is a "thnkuuu", with maybe a <3 added for good measure.</p> 
+		
+		<p>This chat-bot is a not as much a parody, as it is an homage. An homage to every bathroom mirror photo, every selfie, every duckface. A tribute to every gratituous snapshot of an arse being thrust out, and its male equivalent: the ab-snap.</p>
+
+		<p><strong>Rashchat</strong> is still in its infancy, so at the moment only certain keywords will give you "special" responses. Anything else will give you a pretty standard airhead response. Much like real life.</p>
+	</div>
+</div>
+  <div class="row">
+    <div class="large-4 columns">
+      <h1>Try these out</h1>
+    </div>
+  </div>
+
+  <div class="row">
+  
+        <div class="small-1 large-1 columns "><img src="./About RashChat_files/BulletRed01.png" /></div>
+        <div class="small-11 large-11 columns">
+		
+          <p><strong>Start off by saying hi.</strong> Who knows? She may love you even more for it.</p>
+          
+		</div>
+	</div>
+
+<div class="row">
+  
+        <div class="small-1 large-1 columns "><img src="./About RashChat_files/BulletRed02.png" /></div>
+        <div class="small-11 large-11 columns">
+		
+          <p><strong>Tell her that she looks "hawt" (or hot).</strong> She can't get enough of it, and will shower you with imaginative replies.</p>
+          
+		</div>
+	</div>
+	
+	<div class="row">
+  
+        <div class="small-1 large-1 columns "><img src="./About RashChat_files/BulletRed03.png" /></div>
+        <div class="small-11 large-11 columns">
+		
+          <p><strong>Tell her you love her photos.</strong> She'll provide you an interesting piece of information.</p>
+          
+		</div>
+	</div>
+	
+	<div class="row">
+  
+        <div class="small-1 large-1 columns "><img src="./About RashChat_files/BulletRed04.png" /></div>
+        <div class="small-11 large-11 columns">
+		
+          <p>Sick of her already?<strong> Ask her to shut up or (to put it crudely), to fuck off.</strong> She gets annoyed when you do this, however. Don't say I didn't warn you.</p>
+          
+		</div>
+	</div>
+	
+	<div class="row">
+  
+        <div class="small-1 large-1 columns "><img src="./About RashChat_files/BulletRed05.png" /></div>
+        <div class="small-11 large-11 columns">
+		
+          <p><strong>Have fun.<strong></p>
+          
+		</div>
+	</div>
+  <!-- Footer -->
+
+  <footer class="row">
+    <div class="large-12 columns">
+      <hr>
+      <div class="row">
+        <div class="large-6 columns">
+          <p>©2013 RashChat. Oh yeah.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+  document.write('<script src=js/vendor/' +
+  ('__proto__' in {} ? 'zepto' : 'jquery') +
+  '.js><\/script>')
+  </script><script src="./About RashChat_files/zepto.js"></script>
+  <script src="./About RashChat_files/foundation.min.js"></script>
+  <script>
+    $(document).foundation();
+  </script>
+
+
+</body></html>
